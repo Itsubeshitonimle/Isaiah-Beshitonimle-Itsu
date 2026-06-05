@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/Black Minimalist Linkedin Banner (1).png" width="100%">
+  <img src="Black Minimalist Linkedin Banner (1).png" width="100%">
 </p>
 
 ## Hi there, I'm Isaiah Beshitonimle Itsu 👋
