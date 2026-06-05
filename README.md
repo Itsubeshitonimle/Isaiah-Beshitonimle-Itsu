@@ -31,8 +31,7 @@ My expertise includes visualization, business intelligence, and backend applicat
 - Develop robust backend applications and APIs
 - Design and manage databases for efficient data storage and retrieval.
 
-      ## 📌 Featured Projects
-
+## 📌 Featured Projects
 ### 🔍 Phishing Website Detection (SQL + ML)
 - Analyzed 11,000+ website records to identify phishing patterns
 - Built a Random Forest model to classify malicious websites
@@ -60,9 +59,8 @@ My expertise includes visualization, business intelligence, and backend applicat
 - **Process Automation:** - Automating data cleaning and reporting workflows using python to reduce manual effort and improve efficiency.
 
 🛠 Tech Stack
-
-🔭 Data Analytics                                                  
-- Languages: SQL, Python                                            
+🔭 Data Analytics                      
+- Languages: SQL, Python          
 - Libraries: Pandas, Numpy, Seaborn, Matplotlib                      
 - Tools: Jupyter Notebook, Excel, Power BI, Tableau                  
 - Other: Data Cleaning, EDA, Feature Analysis, DAX
