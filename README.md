@@ -1,3 +1,13 @@
+Isaiah-Beshitonimle-Itsu
+│
+├── README.md
+└── assets
+    └── banner.png
+
+<p align="center">
+  <img src="assets/banner.png" width="100%">
+</p>
+
 ## Hi there, I'm Isaiah Beshitonimle Itsu 👋
 
 <div align="center">
