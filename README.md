@@ -28,7 +28,7 @@ My expertise includes visualization, business intelligence, and backend applicat
 🧠 What I Do
 - Analyze data using SQL & Python
 - Build interactive dashboards and reports using Power BI
-- Develop robust backend applications andn APIs
+- Develop robust backend applications and APIs
 - Design and manage databases for efficient data storage and retrieval.
       
 ## 🔭 What I'm Currently Working On 
@@ -38,12 +38,17 @@ My expertise includes visualization, business intelligence, and backend applicat
 - **Process Automation:** - Automating data cleaning and reporting workflows using python to reduce manual effort and improve efficiency.
 
 🛠 Tech Stack
-🔭 Data Analytics                                                   🔭 Backend Development
-Languages: SQL, Python                                             Languages: Python, Node.js, JavaScript
-Libraries: Pandas, Numpy, Seaborn, Matplotlib                      Tools: Rest APIs, Express.js, Nest.js
-Tools: Jupyter Notebook, Excel, Power BI, Tableau                  Other: Database Design, Git & GitHub
-Other: Data Cleaning, EDA, Feature Analysis, DAX
+🔭 Data Analytics                                                  
+- Languages: SQL, Python                                            
+- Libraries: Pandas, Numpy, Seaborn, Matplotlib                      
+- Tools: Jupyter Notebook, Excel, Power BI, Tableau                  
+- Other: Data Cleaning, EDA, Feature Analysis, DAX
 
+🔭 Backend Development
+-  Languages: Python, Node.js, JavaScript
+-  Tools: Rest APIs, Express.js, Nest.js
+-  Other: Database Design, Git & GitHub
+  
 ## 🌱 Currently Learning 
 
 - Advanced data analysis techniques with Python (Pandas, NumPy, Scikit-learn).
