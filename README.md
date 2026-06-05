@@ -30,7 +30,29 @@ My expertise includes visualization, business intelligence, and backend applicat
 - Build interactive dashboards and reports using Power BI
 - Develop robust backend applications and APIs
 - Design and manage databases for efficient data storage and retrieval.
-      
+
+      ## 📌 Featured Projects
+
+### 🔍 Phishing Website Detection (SQL + ML)
+- Analyzed 11,000+ website records to identify phishing patterns
+- Built a Random Forest model to classify malicious websites
+- Discovered key indicators like SSL status, URL structure, and traffic behavior
+
+### 📊 Sales Dashboard (Power BI)
+- Built an interactive dashboard to track revenue, KPIs, and trends
+- Improved data visibility for decision-making
+- Tools: Power BI, Excel
+
+### 📈 Customer Segmentation Analysis
+- Performed customer segmentation using Python
+- Identified key customer groups and behavioral patterns
+- Tools: Python, Pandas, Matplotlib
+
+### ⚙️ Data Cleaning Automation
+- Automated repetitive data cleaning tasks
+- Reduced manual processing time significantly
+- Tools: Python, Excel
+  
 ## 🔭 What I'm Currently Working On 
 
 - ** 📊 Sales Performance Dashboard:** - Building an interactive Power Bi dashboard to track KPIs, revenue trends and regional performance.  
@@ -90,28 +112,6 @@ My expertise includes visualization, business intelligence, and backend applicat
 - Docker
 - Power BI
 - Linux
-  
-## 📌 Featured Projects
-
-### 🔍 Phishing Website Detection (SQL + ML)
-- Analyzed 11,000+ website records to identify phishing patterns
-- Built a Random Forest model to classify malicious websites
-- Discovered key indicators like SSL status, URL structure, and traffic behavior
-
-### 📊 Sales Dashboard (Power BI)
-- Built an interactive dashboard to track revenue, KPIs, and trends
-- Improved data visibility for decision-making
-- Tools: Power BI, Excel
-
-### 📈 Customer Segmentation Analysis
-- Performed customer segmentation using Python
-- Identified key customer groups and behavioral patterns
-- Tools: Python, Pandas, Matplotlib
-
-### ⚙️ Data Cleaning Automation
-- Automated repetitive data cleaning tasks
-- Reduced manual processing time significantly
-- Tools: Python, Excel
 
 ---
 
