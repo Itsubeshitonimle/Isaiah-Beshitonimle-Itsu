@@ -17,7 +17,7 @@
 </p>
 
 ## 🚀 About Me 
-Data Analyst | Software Developer |SQL | Python | Node.js
+Data Analyst | Software Developer | SQL | Python | Node.js
 
 I am a passionate Data Analyst and Software Developer with a strong interest in transforming data into actionable insights and building scalable software solutions.
 My expertise includes visualization, business intelligence, and backend application development. I enjoy working with data to uncover trends, optimize decision-making, and develop systems that solve real world problems.
@@ -38,6 +38,7 @@ My expertise includes visualization, business intelligence, and backend applicat
 - **Process Automation:** - Automating data cleaning and reporting workflows using python to reduce manual effort and improve efficiency.
 
 🛠 Tech Stack
+
 🔭 Data Analytics                                                  
 - Languages: SQL, Python                                            
 - Libraries: Pandas, Numpy, Seaborn, Matplotlib                      
